@@ -1,0 +1,17 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore all .env files
+.env
+
+# Ignore the embedded repo (your case)
+mywebsite/
