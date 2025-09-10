@@ -205,19 +205,19 @@ hr {
 }
 .photo-frame {
     float: left;
-    width: 200px;               /* Adjust as desired */
-    border: 5px solid #f1c1fb;  /* A border color that complements your club branding */
-    margin: 0 20px 20px 0;         /* Center the frame */
-    padding: 10px;              /* Optional padding */
-    background-color: #fff;     /* White background to make it pop */
-    border-radius: 8px;         /* Slight rounded corners */
+    width: 200px;
+    border: 5px solid #f1c1fb;
+    margin: 0 20px 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 .photo-frame img {
     width: 100%;
     height: auto;
-    display: block;             /* Ensures image is displayed properly */
-    border-radius: 4px;         /* Slight rounding of the image corners */
+    display: block;
+    border-radius: 4px;
 }
 .header-with-padding{
     font-weight: bold;
@@ -303,4 +303,17 @@ textarea {
 }
 .cta button {
     cursor: pointer;
+}
+
+.dell-project-container{
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-bottom: 30px;
+}
+.ci-cd-container{
+    text-align: right;
+    padding-top: 120px;
+    padding-right: 150px;
+    padding-bottom: 30px;
 }
